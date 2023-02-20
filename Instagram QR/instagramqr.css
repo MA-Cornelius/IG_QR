@@ -1,0 +1,53 @@
+body{
+    font:Julee;
+    background:url("https://t4.ftcdn.net/jpg/04/62/92/65/360_F_462926550_hhIOBpDGqu2o5zKsnU46fANlJso4h8Vo.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page{
+    background: url("https://cdn5.vectorstock.com/i/1000x1000/34/94/texture-gray-color-white-background-vector-30323494.jpg");
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 375px;
+    border-radius:15px ;
+    -webkit-border-radius:15px ;
+    -moz-border-radius:15px ;
+    -ms-border-radius:15px ;
+    -o-border-radius:15px ;
+    margin: auto;
+    font-weight: 200px;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+h2{
+    font: Julee;
+    font-size: 25px;
+    color:  #5b99c7;
+}
+p{
+    font-size: 17px;
+}
+p:hover{
+    color: #87B4D8;
+}
+.conclusion{
+    text-align: centre;
+}
+.subcontent{
+    color: #1e374a;
+    text-align: center;
+}
+.qrcontent{
+    text-align: center;
+}
+a:visited{
+color: #87B4D8;
+}
